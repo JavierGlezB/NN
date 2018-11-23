@@ -1,0 +1,9 @@
+*.h5py
+*.h5
+*.hdf
+*.pyc
+*.gz
+*.to
+log/
+logs/
+AROD_HDF/
